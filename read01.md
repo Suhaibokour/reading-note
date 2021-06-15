@@ -4,11 +4,11 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 ![markdown](https://res.cloudinary.com/practicaldev/image/fetch/s--Nrzp31zz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kml9j34p9taplrnqtcez.jpg)
 
-I think using markdown is a great way to for whriting on your webpage for the following reasons:
+I think using markdown is a great way for writing on your webpage for the following reasons:
 
 1. It is lighter than HTML.
 2. It is easer to deal with.
-3. It allows you to add a theme to you writing.
+3. It allows you to add a theme to your writing.
 4. It gives you the ability to use emojis
 
 Here is a link that can help you understand Markdown with lists of examples that can make things look easer and fun:
