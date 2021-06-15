@@ -2,6 +2,7 @@
 ---
 | Name       | Links         |
 ------------ |:------------: |
+|     README       | [README]()              |
 |  Growthmidset          |[Growthmidset](https://suhaibokour.github.io/reading-note/)               |
 |           Read01 |[Read01](https://suhaibokour.github.io/reading-note/read01)               |
-|           Read02 |[Read02]               |
+|           Read02 |[Read02](https://suhaibokour.github.io/reading-note/read02)               |
