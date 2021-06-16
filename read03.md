@@ -44,6 +44,7 @@ For futher reading on how to make your wireframe in six steps : [careerfoundry](
 3. Simplicity is key
 
 For futher reading on how to make your wireframe good visit : [careerfoundry](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+<<<<<<< HEAD
 
 ## HTML basics
 
@@ -57,3 +58,5 @@ For further reading on HTML visit : [MDN web docs](https://developer.mozilla.org
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
 HTML, CSS and JavaScript, they all have diffrent semantics. read more [semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics).
+=======
+>>>>>>> b6687b3a4bb982bd26b5bc90e3aa8e9339a19431
