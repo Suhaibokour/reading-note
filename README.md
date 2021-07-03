@@ -19,7 +19,7 @@
 
 | Name    | Links      |
 |---------|:---------: |
-|Introductory HTML and JavaScript|[read01]()  |
+|Introductory HTML and JavaScript|[class01](https://suhaibokour.github.io/reading-note/201/class-01)  |
 
 
 
