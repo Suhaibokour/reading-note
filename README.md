@@ -20,6 +20,6 @@
 | Name    | Links      |
 |---------|:---------: |
 |Introductory HTML and JavaScript|[class01](https://suhaibokour.github.io/reading-note/201/class-01)  |
-
+|HTML,CSS and JS                 |[class02](https://suhaibokour.github.io/reading-note/201/class-02)  |                           
 
 
