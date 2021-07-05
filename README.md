@@ -1,5 +1,7 @@
 ### My name is **Suhaib Okour** I am 26 years old. I studied **English Language and Linguistics** at Jordan University of Science and Technology. I used to work at a cars dealership company in Sweden but had to comeback to finish my MA studies in applied linguistics. I am currently having a course in software development at LTUC. I am here because I realized that programming is what I have always been passionate about and seizing this opportunity is something a wise man would do.  
 ---
+
+## This is a reading note that containt the table of content for each level of the web development course taking place at LTUC/ASAC collage. Each link leads to a summary for a specific topic inside this course and topics names are written before each link.
 ## code 102 reading notes
 
 | Name       | Links         |
@@ -19,7 +21,7 @@
 
 | Name    | Links      |
 |---------|:---------: |
-|Introductory HTML and JavaScript|[class01](https://suhaibokour.github.io/reading-note/201/class-01)  |
-|HTML,CSS and JS                 |[class02](https://suhaibokour.github.io/reading-note/201/class-02)  |                           
-
+|Introductory HTML and JavaScript|[class01](https://suhaibokour.github.io/reading-note/201/class-01)|
+|HTML,CSS and JS|[class02](https://suhaibokour.github.io/reading-note/201/class-02)|                           
+|HTML Lists, Control Flow with JS, and the CSS Box Model|[class03](https://suhaibokour.github.io/reading-note/201/class-03)|
 
