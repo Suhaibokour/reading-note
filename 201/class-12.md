@@ -24,7 +24,7 @@ Now that we have set up our canvas environment, we can get into the details of h
 
 
 * Drawing rectangles  
-Unlike SVG, <canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.
+Unlike SVG, \<canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.
 
 * Applying styles and colors Previous  
 1. Colors  
