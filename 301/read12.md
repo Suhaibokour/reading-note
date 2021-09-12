@@ -1,4 +1,4 @@
-# CRUD
+# Authentication
 
 ## What is a status code 202?
 
